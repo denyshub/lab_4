@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\dengu\source\repos\lab_4.3\lab_4.3\Source.cpp(25,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dengu\source\repos\lab_4.3\lab_4.3\Source.cpp(28,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dengu\source\repos\lab_4.3\lab_4.3\Source.cpp(30,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab_4.3.vcxproj -> C:\Users\dengu\source\repos\lab_4.3\x64\Debug\lab_4.3.exe
